@@ -1,4 +1,4 @@
-package com.nni.taskmanager.taskmanager.domain;
+package com.nni.taskmanager.domain;
 
 import java.io.Serializable;
 

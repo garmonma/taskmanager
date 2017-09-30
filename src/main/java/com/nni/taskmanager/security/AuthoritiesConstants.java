@@ -1,4 +1,4 @@
-package com.nni.taskmanager.taskmanager.security;
+package com.nni.taskmanager.security;
 
 public final class AuthoritiesConstants {
 

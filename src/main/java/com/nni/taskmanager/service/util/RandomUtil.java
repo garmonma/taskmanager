@@ -1,4 +1,4 @@
-package com.nni.taskmanager.taskmanager.service.util;
+package com.nni.taskmanager.service.util;
 
 import org.apache.commons.lang3.RandomStringUtils;
 

@@ -1,7 +1,12 @@
-package com.nni.taskmanager.taskmanager.domain;
+package com.nni.taskmanager.domain;
 
 import java.sql.Date;
 
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "project")
 public class Project {
 	
 	private String name;

@@ -1,4 +1,4 @@
-package com.nni.taskmanager.taskmanager.config;
+package com.nni.taskmanager.config;
 
 public class Constants {
 	
